@@ -1,7 +1,7 @@
 ---
 title: Documentation on several Microsoft OS, Platforms, and Applications
-date: 2023-12-5 23:00:00 +0800
-categories: [Microsoft Updates, PowerShell, PS Modules]
+date: 2023-12-5 23:00:00 +0500
+categories: [PS Modules, PowerShell, Microsoft Updates]
 tags: [powershell,get-mscatalogupdate,microsoft,updates]
 ---
 
