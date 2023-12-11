@@ -6,11 +6,12 @@ tags: [powershell,get-mscatalogupdate,microsoft,updates]
 ---
 
 
-This article will demostrate how to use the PowerShell (PS) module Get-MSCatalogUpdate to pull down data for Microsoft patches, for a variety of Microsoft OSes, Platforms, and Applications.</br></br>
+This article will demostrate how to use the PowerShell (PS) module Get-MSCatalogUpdate to pull down data for Microsoft patches, for a variety of Microsoft OSes, Platforms, and Applications.
+
 This module can be found under ryan-jan's github account at https://github.com/ryan-jan/MSCatalog.  
 
 ## Get-MSCatalogUpdate
-Get-MSCatalogUpdate pulls data from https://www.catalog.update.microsoft.com/Home.aspx based on given parameters.</br>
+Get-MSCatalogUpdate pulls data from https://www.catalog.update.microsoft.com/Home.aspx based on given parameters.
 
 ### Before you write your script
 - Make sure you already know what you want to download, be specific as this site houses A LOT of data.
