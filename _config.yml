@@ -28,8 +28,8 @@ url: "https://rustyrat21.github.io"
 github:
   username: rustyrat21 # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
+# twitter:
+  #username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
@@ -42,7 +42,7 @@ social:
     - https://github.com/rustyrat21 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/philhampton
 
 google_site_verification: # fill in to your verification string
 
