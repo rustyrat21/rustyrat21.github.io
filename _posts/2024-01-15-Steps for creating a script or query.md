@@ -1,5 +1,5 @@
 ---
-title: Documentation on several Microsoft OS, Platforms, and Applications
+title: Steps for Creating a script or query
 date: 2024-1-15 21:05:00 +0500
 categories: [PowerShell, MSSQL]
 tags: [powershell,sql,redshift]
