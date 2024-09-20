@@ -15,6 +15,7 @@ VS Code Extensions that I use on a regular basis.  Use these within different Pr
 
 ## Power BI
 - [Bravo Template Editor - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=SQLBI.bravo-template-editor)
+
 ## Code Formatting
 - [Prettier - Code formatter - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [Bracket Pair Colorization Toggler - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=dzhavat.bracket-pair-toggler)
